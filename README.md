@@ -7,4 +7,5 @@ Awesome Artefacts of Grauge Graphs
 - https://github.com/thinkaurelius/titan
 - https://github.com/dgraph-io/dgraph
 - https://github.com/JanusGraph/janusgraph
+- https://cayley.gitbook.io/cayley/
 - https://tinkerpop.apache.org/
