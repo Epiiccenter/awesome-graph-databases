@@ -3,6 +3,7 @@ Awesome Artefacts of Grauge Graphs
 
 ## Graph
 - https//sourceforge.net/software/graph-databases/
+- https://www.intellspot.com/open-source-graph-database/
 - https://github.com/thinkaurelius/titan
 - https://github.com/dgraph-io/dgraph
 - https://github.com/JanusGraph/janusgraph
